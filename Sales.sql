@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS Sales;
+
+-- cara kedua
+-- CREATE SCHEMA IF NOT EXISTS Sales; 
